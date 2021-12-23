@@ -1,0 +1,29 @@
+
+m	java:S116"XRename this field "log_in_placer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŠ ’
+s	java:S116"YRename this field "log_in_placer1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½„ÿÿÿÿÿ
+w	java:S116"[Rename this field "sign_up_name_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äñ¹ª8±ØİŞ/
+	java:S116"^Rename this field "sign_up_vorname_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷šÂüÿÿÿÿ8Ù‘ŞŞ/
+v	java:S116"ZRename this field "greetings_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èñó8Å¾àŞ/
+j	java:S116"VRename this field "error_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÊ‡
+M
+java:S1172 "2Remove this unused method parameter "actionEvent".(­„‡Îûÿÿÿÿ
+O
+java:S11721"2Remove this unused method parameter "actionEvent".(Œ¶ªƒ8ß«èÄŞ/
+O
+java:S1128"-Remove this unused import 'entities.Student'.(èÈ´Òøÿÿÿÿ8ôãæÄŞ/
+o
+java:S1104"YMake log_in_placer a static final constant or non-public and provide accessors if needed.(ÎŠ ’
+u
+java:S1104"ZMake log_in_placer1 a static final constant or non-public and provide accessors if needed.(é½„ÿÿÿÿÿ
+y
+java:S1104"\Make sign_up_name_txt a static final constant or non-public and provide accessors if needed.(äñ¹ª8ËØİŞ/
+
+java:S1104"_Make sign_up_vorname_txt a static final constant or non-public and provide accessors if needed.(÷šÂüÿÿÿÿ8î‘ŞŞ/
+x
+java:S1104"[Make greetings_label a static final constant or non-public and provide accessors if needed.(Èñó8õ¾àŞ/
+l
+java:S1104"WMake error_label a static final constant or non-public and provide accessors if needed.(ƒÊ‡
+m
+java:S1104"RMake entity a static final constant or non-public and provide accessors if needed.(ú³÷Åıÿÿÿÿ
+f
+java:S1104"PMake ctrl a static final constant or non-public and provide accessors if needed.(“—µæ

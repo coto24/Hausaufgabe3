@@ -1,0 +1,6 @@
+
+r
+java:S1206S"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8ÍˆÖÄİ/
+O
+java:S2175P"-A "List<Integer>" cannot contain a "Student".(ÿƒ—øÿÿÿÿ8‰’Ìèİ/
+m	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ıöã8©‰ÖÄİ/

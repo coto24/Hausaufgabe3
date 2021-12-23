@@ -1,0 +1,6 @@
+
+Ž
+java:S1130
+"qRemove the declaration of thrown exception 'entities.CustomException', as it cannot be thrown from method's body.(³²Ê©8Ç”¥ÄÞ/
+V
+java:S1128":Remove this unused import 'controller.RegistrationSystem'.(›±‘=8Ë”¥ÄÞ/

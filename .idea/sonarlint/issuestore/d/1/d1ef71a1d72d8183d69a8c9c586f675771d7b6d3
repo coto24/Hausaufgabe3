@@ -1,0 +1,60 @@
+
+H
+java:S6126"2Replace this String concatenation with Text block.(ş•Î
+A
+java:S1659G"&Declare "lastName" on a separate line.(ŞùÇıÿÿÿÿ
+A
+java:S1659Z"&Declare "lastName" on a separate line.(ŞùÇıÿÿÿÿ
+a
+java:S1659j"FDeclare "firstName" and all following declarations on a separate line.(ùŞüœûÿÿÿÿ
+;
+java:S1659k"%Declare "credits" on a separate line.(ÿàì÷
+S
+java:S1854‚"<Remove this useless assignment to local variable "lastName".(…ü¥ê
+T
+java:S1854‚"=Remove this useless assignment to local variable "firstName".(…ü¥ê
+=
+java:S1659‚"&Declare "lastName" on a separate line.(…ü¥ê
+B
+java:S1659”"&Declare "lastName" on a separate line.(ŞùÇıÿÿÿÿ
+X
+java:S1854µ"<Remove this useless assignment to local variable "lastName".(ç¸ëºÿÿÿÿÿ
+Y
+java:S1854µ"=Remove this useless assignment to local variable "firstName".(ç¸ëºÿÿÿÿÿ
+a
+java:S1659µ"EDeclare "lastName" and all following declarations on a separate line.(ç¸ëºÿÿÿÿÿ
+X
+java:S1854×"<Remove this useless assignment to local variable "lastName".(ç¸ëºÿÿÿÿÿ
+Y
+java:S1854×"=Remove this useless assignment to local variable "firstName".(ç¸ëºÿÿÿÿÿ
+W
+java:S1854Ö";Remove this useless assignment to local variable "courses".(¢¾¦Åÿÿÿÿÿ
+a
+java:S1659×"EDeclare "lastName" and all following declarations on a separate line.(ç¸ëºÿÿÿÿÿ
+H
+java:S1481Ö",Remove this unused "courses" local variable.(¢¾¦Åÿÿÿÿÿ
+<
+java:S1659ø"%Declare "credits" on a separate line.(¡¿‚Ú
+i	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û½Ú¤ûÿÿÿÿ
+N
+java:S6126Æ"2Replace this String concatenation with Text block.(Ø°¸ıÿÿÿÿ
+I
+java:S6126Ù"2Replace this String concatenation with Text block.(·®ô
+N
+java:S6126ì"2Replace this String concatenation with Text block.(–¶À”ùÿÿÿÿ
+N
+java:S6126–"2Replace this String concatenation with Text block.(¯œÄ¿ûÿÿÿÿ
+N
+java:S6126¨"2Replace this String concatenation with Text block.(à®±Üşÿÿÿÿ
+N
+java:S6126Ì"2Replace this String concatenation with Text block.(¯œÄ¿ûÿÿÿÿ
+_
+java:S1192M"JDefine a constant instead of duplicating this literal "lastName:" 5 times.(ı¯ØD
+[
+java:S1192m"FDefine a constant instead of duplicating this literal "name:" 3 times.(µé‡~
+f
+java:S1192J"KDefine a constant instead of duplicating this literal "firstName:" 5 times.(ºŠ“Êüÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¸ëºÿÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¸ëºÿÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¸ëºÿÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¸ëºÿÿÿÿÿ

@@ -1,0 +1,8 @@
+
+r
+java:S1206?"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8ß’ÖÄİ/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¼ÑüÄİ/
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÌÑüÄİ/
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñéùÏ8Ÿ“ÖÄİ/

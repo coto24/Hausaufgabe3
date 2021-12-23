@@ -1,0 +1,22 @@
+
+B
+java:S1168Ô"+Return an empty collection instead of null.(¥¹ï
+i	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŸÙÄüÿÿÿÿ
+B
+java:S1168í"+Return an empty collection instead of null.(¥¹ï
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÛìÉ¿ÿÿÿÿÿ
+^
+java:S1612š"BReplace this lambda with method reference 'Student::getStudentId'.(¬»Óƒùÿÿÿÿ
+a
+java:S1612£"EReplace this lambda with method reference 'Student::getTotalCredits'.(ô¨úÎùÿÿÿÿ
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(íÄ‰¨
+[
+java:S1612İ"EReplace this lambda with method reference 'Course::getMaxEnrollment'.(ÇÆ”
+V
+java:S1612ï"?Replace this lambda with method reference 'Course::getCredits'.(®ËĞŒ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¤Òûüşÿÿÿÿ
+i
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(–Ã½

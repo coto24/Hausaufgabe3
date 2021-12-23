@@ -1,0 +1,54 @@
+
+m	java:S116"XRename this field "log_in_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÇİ
+m	java:S116"XRename this field "log_in_placer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎŠ ’
+s	java:S116"YRename this field "log_in_placer1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é½„ÿÿÿÿÿ
+l	java:S116"WRename this field "log_in_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¿œ€
+r	java:S116"XRename this field "log_in_label1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ã…Ïÿÿÿÿÿ
+o	java:S116"ZRename this field "greetings_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èñó
+j	java:S116"VRename this field "error_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÊ‡
+m	java:S116"SRename this field "sign_up1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åóüåúÿÿÿÿ
+m	java:S116"SRename this field "sign_up2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¼Úûÿÿÿÿ
+m	java:S116"SRename this field "sign_up3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÑôòÿÿÿÿÿ
+p	java:S116"[Rename this field "sign_up_name_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äñ¹ª
+x	java:S116"^Rename this field "sign_up_vorname_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷šÂüÿÿÿÿ
+o	java:S116"URename this field "sign_up_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¥ûøÿÿÿÿ
+s	java:S116 "YRename this field "sign_up_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã½…ëüÿÿÿÿ
+M
+java:S1172-"2Remove this unused method parameter "actionEvent".(­„‡Îûÿÿÿÿ
+H
+java:S1172?"2Remove this unused method parameter "actionEvent".(Œ¶ªƒ
+O
+java:S1128"-Remove this unused import 'entities.Teacher'.(ê±ü™üÿÿÿÿ8ƒÅÏ¾Ş/
+W
+java:S1128
+":Remove this unused import 'javafx.scene.control.ComboBox'.(òÀø¸8„ÅÏ¾Ş/
+o
+java:S1104"YMake log_in_placer a static final constant or non-public and provide accessors if needed.(ÎŠ ’
+u
+java:S1104"ZMake log_in_placer1 a static final constant or non-public and provide accessors if needed.(é½„ÿÿÿÿÿ
+n
+java:S1104"XMake log_in_label a static final constant or non-public and provide accessors if needed.(ƒ¿œ€
+t
+java:S1104"YMake log_in_label1 a static final constant or non-public and provide accessors if needed.(÷ã…Ïÿÿÿÿÿ
+q
+java:S1104"[Make greetings_label a static final constant or non-public and provide accessors if needed.(Èñó
+l
+java:S1104"WMake error_label a static final constant or non-public and provide accessors if needed.(ƒÊ‡
+o
+java:S1104"TMake sign_up1 a static final constant or non-public and provide accessors if needed.(Åóüåúÿÿÿÿ
+o
+java:S1104"TMake sign_up2 a static final constant or non-public and provide accessors if needed.(Æ¼Úûÿÿÿÿ
+o
+java:S1104"TMake sign_up3 a static final constant or non-public and provide accessors if needed.(ªÑôòÿÿÿÿÿ
+r
+java:S1104"\Make sign_up_name_txt a static final constant or non-public and provide accessors if needed.(äñ¹ª
+z
+java:S1104"_Make sign_up_vorname_txt a static final constant or non-public and provide accessors if needed.(÷šÂüÿÿÿÿ
+q
+java:S1104"VMake sign_up_id a static final constant or non-public and provide accessors if needed.(‡¥ûøÿÿÿÿ
+u
+java:S1104 "ZMake sign_up_button a static final constant or non-public and provide accessors if needed.(ã½…ëüÿÿÿÿ
+m
+java:S1104""RMake entity a static final constant or non-public and provide accessors if needed.(ı½…Ñøÿÿÿÿ
+f
+java:S1104#"PMake ctrl a static final constant or non-public and provide accessors if needed.(“—µæ

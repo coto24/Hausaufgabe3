@@ -1,0 +1,31 @@
+
+J
+java:S3740""/Provide the parametrized type for this generic.(Š‚¡Çüÿÿÿÿ
+Q
+java:S37403"/Provide the parametrized type for this generic.(„¼®Şüÿÿÿÿ8ö§õÃŞ/
+L
+java:S37407"/Provide the parametrized type for this generic.(ËÅª–8ö§õÃŞ/
+o	java:S116 "ZRename this field "greetings_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èñó
+j	java:S116!"VRename this field "error_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÊ‡
+`
+java:S3252B"EUse static access with "javafx.animation.Animation" for "INDEFINITE".(Êı şÿÿÿÿ
+H
+java:S1172L"2Remove this unused method parameter "actionEvent".(àí…¬
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8ğ”íÃŞ/
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8€•íÃŞ/
+h
+java:S1128"KRemove this unused import 'javafx.scene.control.cell.PropertyValueFactory'.(àÎ¬õ8•íÃŞ/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8 •íÃŞ/
+o
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Åíó
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò§¸ˆ
+q
+java:S1104 "[Make greetings_label a static final constant or non-public and provide accessors if needed.(Èñó
+l
+java:S1104!"WMake error_label a static final constant or non-public and provide accessors if needed.(ƒÊ‡
+l
+java:S1104""QMake tabel a static final constant or non-public and provide accessors if needed.(Š‚¡Çüÿÿÿÿ

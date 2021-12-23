@@ -1,0 +1,21 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(·¹â®
+r	java:S116"XRename this field "credits_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç•þ³ýÿÿÿÿ
+t	java:S116"ZRename this field "register_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ©¥‚øÿÿÿÿ
+o	java:S116"ZRename this field "greetings_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žÈñó
+j	java:S116"VRename this field "error_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÊ‡
+g
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(·Üï!
+v
+java:S1104"[Make register_button a static final constant or non-public and provide accessors if needed.(õ©¥‚øÿÿÿÿ
+f
+java:S1104"PMake comb a static final constant or non-public and provide accessors if needed.(·¹â®
+q
+java:S1104"[Make greetings_label a static final constant or non-public and provide accessors if needed.(žÈñó
+l
+java:S1104"WMake error_label a static final constant or non-public and provide accessors if needed.(ƒÊ‡
+f
+java:S1104"PMake ctrl a static final constant or non-public and provide accessors if needed.(“—µæ
+m
+java:S1104 "RMake entity a static final constant or non-public and provide accessors if needed.(ý½…Ñøÿÿÿÿ

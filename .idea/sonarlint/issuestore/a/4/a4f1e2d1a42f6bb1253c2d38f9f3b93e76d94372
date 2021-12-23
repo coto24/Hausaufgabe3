@@ -1,0 +1,11 @@
+
+r
+java:S1206-"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8ù’ÖÄİ/
+Y
+java:S1117"<Rename "teacherId" which hides the field declared at line 9.(Å½°º8‰“ÖÄİ/
+K
+java:S1481".Remove this unused "teacherId" local variable.(Å½°º8““ÖÄİ/
+]
+java:S18540";Remove this useless assignment to local variable "teacher".(˜Ä´‘ûÿÿÿÿ8³“ÖÄİ/
+N
+java:S14810",Remove this unused "teacher" local variable.(˜Ä´‘ûÿÿÿÿ8Ã“ÖÄİ/
